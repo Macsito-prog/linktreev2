@@ -98,3 +98,11 @@ a{
     text-decoration: none;
     color: rgb(240,240,240);
 }
+
+
+.esevege{
+    background-image: url(assets/weather_icon_150018.svg);
+    
+    background-repeat: no-repeat;
+    stroke-width: 3px;  
+}
