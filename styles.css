@@ -18,6 +18,12 @@ header{
     padding: 12px;
     margin-top: 15px;
 }
+.svg-win{
+    background-color: transparent;
+    height: 44px;
+    width: 44px;
+    border-radius: 15px;
+}
 
 
 .share-button{
